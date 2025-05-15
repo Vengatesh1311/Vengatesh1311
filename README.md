@@ -5,7 +5,7 @@
 
  I'm a **A Vengatesh** from TamilNadu, currently passed out Information Technology at Anna University, Trichy. I'm a self-taught developer passionate about learning new things and exploring different frameworks.
 
-🌐 [Personal website](https://vengatesh1311.github.io/Portfolio/))
+🌐 [Personal website](https://vengatesh1311.github.io/Portfolio/)
 
 
 
